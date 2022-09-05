@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch DivisionByZero",
+            "request": "launch",
+            "mainClass": "lang.print.gaps.finalModuleTask.DivisionByZero",
+            "projectName": "java.syntax.task-final"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrintingFalse",
+            "request": "launch",
+            "mainClass": "lang.print.gaps.finalModuleTask.PrintingFalse",
+            "projectName": "java.syntax.task-final"
+        },
+        {
+            "name": "Listen for Xdebug",
+            "type": "php",
+            "request": "launch",
+            "port": 9003
+        }
+    ]
+}
